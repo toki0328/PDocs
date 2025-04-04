@@ -4,6 +4,7 @@
     "buildCommand": "npm run build",
     "devCommand": "npm run start",
     "rewrites": [
-        { "source": "pdocs/(.*)", "destination": "/" }
+        { "source": "pdocs/(.*)", "destination": "/$1" },
+        { "source": "pdocs", "destination": "/" }
     ]
 }
