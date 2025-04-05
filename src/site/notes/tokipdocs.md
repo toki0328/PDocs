@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tokipdocs/","tags":["gardenEntry"],"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/tokipdocs/","tags":["gardenEntry"],"dgShowFileTree":true,"dgEnableSearch":true}
 ---
 
 This is tokipdocs.
